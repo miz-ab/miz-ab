@@ -26,6 +26,6 @@
 
 ## 🌎 Let's Connect!
 
-- 💻 **GitHub**: [miz-ab] (https://github.com/miz-ab) 
+- 💻 **GitHub**: [miz-ab](https://github.com/miz-ab) 
 - 🔗 **LinkedIn**: [mizanabaynew](https://www.linkedin.com/in/mizan-abaynew/)
 
