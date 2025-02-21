@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm Mizan Abaynew
 
-<!--
-**miz-ab/miz-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ About Me
 
-Here are some ideas to get you started:
+- 🌍 I am a passionate **Full Stack Software Developer**.
+- 💼 I have worked on enterprise projects with **Spring Boot**, **Docker**, and **Angular**.
+- ⚡ I enjoy designing scalable backend architectures and solving complex technical challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Core Skills:
+
+### 🚀 Backend:
+
+- 🌱  Spring Boot, ☕  Java, 🏗️ RESTful APIs, Microservices, Spring Security, Hibernate
+
+### 🎨 Frontend:
+
+- 🅰️  Angular, 🔷 TypeScript, 🌐 HTML, 🖌️ CSS
+
+### 🗄️ Databases:
+
+- 🐬  MySQL, 🐘  PostgreSQL, 🏦 Oracle
+
+### 🛠️ DevOps & Tools:
+
+- 🐳  Docker, ☁️  AWS, 🏗️ Kubernetes, CI/CD, Jenkins, 🔧 Git, RabbitMQ, Kafka
+
+## 🌎 Let's Connect!
+
+- 💻 **GitHub**: [miz-ab] (https://github.com/miz-ab) 
+- 🔗 **LinkedIn**: [mizanabaynew](https://www.linkedin.com/in/mizan-abaynew/)
+
